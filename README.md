@@ -10,5 +10,7 @@ Every cell interacts with its 8 neighbors. Here are the rules:
 The script randomly generates the starting scene (probability of living cell is P=.5).
 
 Demo:
+
 ![Alt Text](https://media.giphy.com/media/v1FhrluofXk1KoUQ4O/giphy.gif)
+
 https://media.giphy.com/media/v1FhrluofXk1KoUQ4O/giphy.gif
